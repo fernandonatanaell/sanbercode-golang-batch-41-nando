@@ -12,6 +12,7 @@
 2. Controller dari nomor ini terletak di dalam controllers/bangunDatarController.go
 
 *** Category ***
+
 0. Bisa CRUD
 1. Untuk category route juga sesuai semua dengan soal
 2. Untuk method POST category, yang dikirimkan dari JSON cukup kolom nama saja, selebihnya sudah otomatis saya setting
@@ -19,6 +20,7 @@
 4. Kemudian untuk update dan delete juga ada pengecekan, apakah ID yang dimasukkan itu sudah ada atau belum di database
 
 *** Book ***
+
 0. Bisa CRUD
 1. Untuk route juga sama, sesuai dengan soal
 2. Field yang bisa di ditambahkan atau diubah oleh user juga sesuai dengan yang ada di soal
